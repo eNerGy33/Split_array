@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643639970 source:c:\codeblocks\works\mass_parts\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
