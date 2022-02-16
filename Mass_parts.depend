@@ -1,6 +1,8 @@
 # depslib dependency file v1.0
-1643639970 source:c:\codeblocks\works\mass_parts\main.cpp
-	<iostream>
-	<fstream>
+1644843449 source:c:\codeblocks\works\mass_parts\main.cpp
+	<stdio.h>
+	<stdlib.h>
 	<string.h>
+	<locale.h>
+	<utility>
 
