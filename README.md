@@ -1,2 +1,2 @@
 # Split_array
-Read massive, compute R1, R2б swap and write to file
+Read massive, compute R1 and R2, swap and write to file
